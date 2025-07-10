@@ -1,0 +1,12 @@
+body { font-family: sans-serif; display: flex; justify-content: center; margin-top: 50px; background-color: #f4f4f4; }
+.widget-container { width: 300px; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background-color: #fff; }
+h2 { text-align: center; margin-top: 0; }
+.currency-item { display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid #eee; }
+.currency-item:last-child { border-bottom: none; }
+.currency-name { font-weight: bold; }
+.currency-value { text-align: right; }
+.rate { font-size: 1.1em; }
+.diff { font-size: 0.9em; }
+.diff-up { color: #28a745; }
+.diff-down { color: #dc3545; }
+.diff-none { color: #6c757d; }
