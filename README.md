@@ -5,7 +5,7 @@
 ## Установка и запуск 
 
 1.  **Клонируйте репозиторий:**
-    git clone 
+    git clone https://github.com/WAVEFORMCELINE/cbr
     cd currency-app
 
 
